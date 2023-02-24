@@ -19,22 +19,22 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"/>
 </div>
 
 ##
 
  <div align='center'>
-    <a href="https://www.hackerrank.com/LucasMarks8?hr_r=1">
+    <a href="https://www.hackerrank.com/LucasMarks8?hr_r=1"/>
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
    </br>
-     </br>
-     </div>
+   </br>
+ </div>
 <div align="center" width='100$'>
   <a href="https://github.com/LucasMarks8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMarks8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMarks8&layout=compact&langs_count=7&theme=dracula"/> 
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMarks8&theme=dracula&hide_border=false"
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMarks8&theme=dracula&hide_border=false" />
 </div>
   
 ##
